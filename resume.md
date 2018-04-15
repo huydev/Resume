@@ -41,31 +41,30 @@
 
 ### 深圳市零壹移动互联系统有限公司（2017年6月-至今）
 
-#### 业务描述
+#### 零案发项目
 
-公司业务提供智慧社区整体解决方案，把智能安防硬件、智慧物业管理、智慧社区全媒体广告、智慧社区生活服务平台和超级智能管家等多个开放平台连接起来。
+我在此项目负责了部分新功能添加以及bug修复，进公司花费了一个多周属性了公司的项目，然后开始做新功能维护老功能。在项目中遇到比较大的问题就是前后端分离不彻底，实际是由我们前端人员编写jsp页面，经过和项目同事沟通这个项目只能继续维护开发，只有在之前基础上添加修改功能。
 
-#### 工作内容
+#### 智能管控平台项目
 
-1. 负责公司前端代码的技术转型。
-2. 推动公司项目的前后端分离。
-3. 参与系统需求分析、讨论。
-4. 负责完成公司一些项目及后期的调整和修改。
+我在此项目负责了项目的整体提议规划，以及部分公共组件和部分模块的具体实现。采用Vue实现了彻底的前后端分离，改进了之前项目页面适配方案，极大的减少了页面适配代码。
+
+#### 设备管理平台项目
+
+我在此项目负责了项目的整个项目规划和实现，采用了Vue实现项目，其中一个比较复杂的点地图上添加摄像头标记需要拖拽功能，没有找到比较合适的开源库，然后就在Vue里面手动写js实现了该功能。
 
 ### 深圳星河集团（2017年3月-2017年6月）
 
-#### 业务描述
+#### 内部叫车平台项目
 
-公司业务主要完成实现、优化公司内部业务流程的内部系统。
+我在此项目参加了系统的需求分析和讨论，基于Vue搭建了前端开发环境。其中有一个组织架构树需要实现，没有找到合适的Vue库，然后直接在Vue套用Jquery插件实现是此需求。
 
-#### 工作内容
+#### 星河会移动端项目
 
-1. 负责公司前端任务开发以及技术难点实现。
-2. 负责公司前端项目规划。
-3. 参与系统需求分析、讨论。
-4. 基于Vue.js搭建前后端分离系统。
+我在此项目参加了整个系统的静态页面实现，以及设计稿的评估，和Vue项目路由的搭建，完美适配各种手机分辨率。
 
-### 重庆火码互动（2014年10月-2017年3月）
+
+### 重庆火码互动（2014年6月-2017年3月）
 
 #### 业务描述
 
@@ -83,16 +82,14 @@
 
 ---
 
-## 部分项目
+## 部分可访问项目
 
-- [看时尚明星如何演绎楼兰美学](http://nissan.dflgo.com/minisite/default/landing/campaigns/2015/murano_Spread/html/src/mobile.html)
-- [全新轩逸科技升级智驱登场-微信广告页](http://nissan.dflgo.com/minisite/default/landing/campaigns/2016/xuanyi_tencent/html/)
 - [智能售票机问卷调查-万达](http://wandafilm.hocodo.com/apps/question/index.html)
 - [新年签](http://minisite.hocodo.com/test/xinnianqian/)
 - [人头马斜杠课堂](http://app.biz.social-touch.com/app-api/oauth/oauth?act=checkoauth&backurl=http://app.hocodo.com/apps/medal/index.html?from=weixinShare&source=67&secret=4f3a6813acc26c65734f5f9783721a73&appid=wxbbf869c63e49ff10)
-- [全新天籁](http://nissan.dflgo.com/minisite/default/vehicles/teana/mc-sale/html/pc.html)
-- [启辰T70](http://nissan.dflgo.com/minisite/default/vehicles/t70/Newt70/html/src/pc.html)
-- [启辰T90手机版](http://nissan.dflgo.com/minisite/default/vehicles/t90/t90list/html/mobile.html)
+- [全新天籁](https://www.dongfeng-nissan.com.cn/car/teana)
+- [启辰T70](http://www.venucia.com/car/T70)
+- [启辰T90手机版](https://www.venucia.com/car/t90/)
 
 ## 致谢
 
