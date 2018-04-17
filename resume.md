@@ -11,7 +11,7 @@
 
  - 男/1991 
  - 本科/重庆理工大学软件工程系(毕业于2014年) 
- - 工作年限：3年
+ - 工作年限：4年
  - 所在城市：深圳
  <!-- - GitHub：[https://github.com/huydev?tab=repositories](https://github.com/huydev?tab=repositories) -->
 
